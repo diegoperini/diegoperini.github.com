@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Diebolik
-tagline: Diego Perini's Personal Blog
+title : Diego Perini's Personal Blog
+tagline: 
 author :
   name : Diego Perini
   email : diego@dperini.com
