@@ -97,3 +97,7 @@ body {
 .border-up {
   border-top: 1px solid #CCCCFF;
 }
+
+.page-header {
+    border-bottom: 1px solid #EEE;
+}
