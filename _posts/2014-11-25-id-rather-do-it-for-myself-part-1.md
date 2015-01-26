@@ -10,7 +10,7 @@ Since this also stands to be the very first post of this blog, I wanted it to be
 
 Dear readers (and future me),
 
-Please be aware that whatever written in this post (including the upcoming ones) must be taken with a grain of salt. Ideas are almost always subjective in nature before they are proven by science. I do not intend to provide proofs of any kind, nor do I require them to express my feelings and opinions. I tend to prove myself wrong in yearly intervals which points to progress I guess. I trust and thank to your skepticism. This blog will kind of depend on that.
+Please be aware that whatever written in this post (including the upcoming ones) must be taken with a grain of salt. Ideas are almost always subjective in nature before they are proven true by science. I do not intend to provide proofs of any kind, nor do I require them to express my feelings and opinions. I tend to prove myself wrong in yearly intervals which points to progress I guess. I trust and thank to your skepticism. This blog will kind of depend on that.
 
 Let's set our clocks back a few years in order to clearly inspect the beginning of this "I'd Rather Do It For Myself" principle.
 
