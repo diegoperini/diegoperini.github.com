@@ -101,3 +101,11 @@ body {
 .page-header {
     border-bottom: 1px solid #CCCCFF;
 }
+
+p {
+  padding-top: 5px;
+}
+
+h4 {
+  padding-top: 15px;
+}

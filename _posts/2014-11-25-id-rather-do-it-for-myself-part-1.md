@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'd Rather Do It For Myself - Part 1"
+title: "I'd rather do it for myself - Part 1"
 description: "A series of post about what I plan to do during my adulthood and how I started"
 category: "Me"
 tags: ["TODO LIST of my life"]
