@@ -2,8 +2,8 @@
 layout: post
 title: "Client is a valid storage"
 description: "A compact introduction to client side data storage"
-category: 
-tags: ["backend-security"]
+category: "Backend Security"
+tags: ["backend security", "cookies", "sessions", "REST", "user authentication"]
 ---
 {% include JB/setup %}
 I've been developing backend web software for the last few years and during this small interval, it became a common task to implement database layers, user authentication, client side caching, tracking unauthenticated traffic and user metric collection. Each time a project included such requirement, learning it through hacking was always the best approach for me. My own computer science degree, Stack Overflow answers and blog posts of people from open source communities are my main sources here. In this post, I will try to use simple examples to explain where one can store application data in a client/server infrastructure and what implications may rise from using each storage type. At the end, there is a guideline of mine I obey when I use client side storage (web and mobile) for applications that communicate through web. Reach me if you believe some statements in this post are incorrect or bad advice.
