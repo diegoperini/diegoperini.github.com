@@ -113,7 +113,6 @@ John is the only person who can modify his profile. In other words, as long he d
 {% highlight javascript %}  
 // John's profile (a state)
 {
-
     "username": "john",                                 // first class
     "age": 19,                                          // first class
     "gender": "male",                                   // first class
