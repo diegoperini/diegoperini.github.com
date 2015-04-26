@@ -10,7 +10,7 @@ I've been developing backend web software for the last few years and during this
  
 ####Ultimate Paranoia
 
-I like to think that every client user is an expert hacker who can read and modify your client source code at will. Every configuration file and persistent data is stored in plain text files and none of that data is sand-boxed. In reality, mobile browsers and app storages are more securely handle their data but it is best to assume the worst. 
+I like to think that every client user is an expert hacker who can read and modify your client source code at will. Every configuration file and persistent data is stored in plain text files and none of that data is sand-boxed. In reality, mobile browsers and app storages more securely handle their data but it is best to assume the worst. 
 
 In other words, there are actually only two locations you deal as storage in terms of security. "Within reach" which means cookies (web), local storage (HTML5), session storage (HTML5), user defaults (iOS), shared preferences (Android), SQLite (iOS, Android) etc. and "beyond reach" which is your server and its databases, local files, SaaS components. 
 
@@ -84,7 +84,7 @@ Easiest ones to pick are collections that cover their model entirely and their m
 
 This collection is all John is, whoever asks for John will need these values to identify him. Since nobody should wait for John to be online all the time, this collection needs to be stored on the server for real time retrieval.
 
-When John filled input boxes to sign-in, he provided a way for our app to remember his name on the same device in the future. Let's pick a collection to make his next visit an easier one.
+When John fills input boxes to sign-in, he provides a way for our app to remember his name on the same device in the future. Let's pick a collection to make his next visit an easier one.
 
 {% highlight javascript %}  
 // Autocomplete username (a leftover)
