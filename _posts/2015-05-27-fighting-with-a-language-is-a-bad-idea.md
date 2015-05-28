@@ -6,7 +6,7 @@ category: "Programming Languages"
 tags: ["programming languages", "bad practices"]
 ---
 {% include JB/setup %}
-I have the habit of making the same mistakes over and over again not because programming language features are badly advertised, because I get too excited when I am able to find a specific feature in a language. My enthusiasm clouds my judgment, then the problem with my approach strikes me at the most inconvenient time. No library fixes a problem introduced solely by bad practice. 
+I have the habit of making the same mistakes over and over again not because programming language features are badly advertised, because I get too excited when I am able to find a specific feature I like in a language. My enthusiasm clouds my judgment, then the problem with my approach strikes me at the most inconvenient time. No library fixes a problem introduced solely by bad practice. 
 
 ####A Small Thought Experiment
 Computer engineering/science education in many schools follows a deductive approach to inspect underlying concepts behind high level abstractions. Many curricula starts with an easy to grasp programming language such as Python, PHP or subsets of some Java, C#, C, C++. Then they introduce limits like memory space, I/O delays, network fault tolerance, cache misses, software scheduling. A curious student can easily find out that many programming languages try to hide these limits from its users to become applicable to certain use case scenarios.
