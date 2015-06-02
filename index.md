@@ -7,7 +7,7 @@ tagline:
 
 Welcome to my personal blog! You can find my latest posts below. Enjoy!
 
-###Latest Post
+###Latest Posts
 
 <ul class="posts">
     {% for post in site.posts %}
