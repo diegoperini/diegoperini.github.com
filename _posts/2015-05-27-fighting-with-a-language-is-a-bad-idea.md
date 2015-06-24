@@ -11,7 +11,7 @@ I have the habit of making the same mistakes over and over again not because pro
 ####A Small Thought Experiment
 Computer engineering/science education in many schools follows a deductive approach to inspect underlying concepts behind high level abstractions. Many curricula start with an easy to grasp programming language such as Python, PHP or subsets of some Java, C#, C, C++. Then they introduce limits like memory space, I/O delays, network fault tolerance, cache misses, software scheduling. A curious student can easily find out that many programming languages try to hide these limits from its users to become applicable to certain use case scenarios.
 
-Here is my experiment. If there was a school that taught Javascript (on Node.js or io.js without explaining what they are) to its first graders just for writing small console programs, I believe these students would drown under the heavy burden when they tried use their new skills on a browser. 
+Here is my experiment. If there was a school that taught Javascript (on Node.js or io.js without explaining what they are) to its first graders just for writing small console programs, I believe these students would drown under the heavy burden when they tried to use their new skills on a browser. 
 
 Browsers are like grumpy parents, they get angry at what you do all the time. No long running loops, functions that do I/O are void functions with callback parameters, no initial file system, HTTP as main network communication tool (which is a monster if you read its history). All these limits are legit and there for security and hardware related reasons.
 
