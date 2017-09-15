@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Home
-tagline: 
+tagline:
 ---
 {% include JB/setup %}
 
 Welcome to my personal blog! You can find my latest posts below. Enjoy!
 
-###Latest Posts
+### Latest Posts
 
 <ul class="posts">
     {% for post in site.posts %}
